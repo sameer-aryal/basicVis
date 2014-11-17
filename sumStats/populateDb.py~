@@ -1,0 +1,7 @@
+from sumStats.models import Genotype
+
+class PopulateFields:
+
+    def populate_all_fields(fileName, genoTypeName):
+        
+        

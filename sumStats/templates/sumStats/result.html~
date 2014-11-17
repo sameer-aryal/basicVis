@@ -1,0 +1,3 @@
+{% if mean %}
+<p> mean </p>
+{% endif %}
